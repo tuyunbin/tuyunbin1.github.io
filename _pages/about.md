@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-School of Computer Science & Technology, University of Chinese Academy of Sciences
+
 My name is Yunbin Tu (涂云斌). I'm a second year Ph.D. student from [School of Computer Science & Technology]((https://scce.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interest includes multi-modal learning, especially for captioning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~suli) from School of Computer Science & Technology, University of Chinese Academy of Sciences.  I am also lucky to be advised by [A.P. Liang Li](https://vipl.ict.ac.cn/people/lliang/) of VIPL research group from Institute of Computing Technology of the Chinese Academy of Sciences. I received my master's degree from Kunming University of Science and Technology in 2022, advised by [Prof. Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). I received my bachelor's degree From Hangzhou Dizi University in 2018, advised by [Prof. Chenggang Yan](https://auto.hdu.edu.cn/2019/0621/c3803a96028/page.htm). I am also lucky to have opportunities to collaborate with [Xishan Zhang (A.P. at ICT, CAS)] (http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/202003/t20200310_5509322.html) and [Xingzheng Wang (A.P. at Shenzhen University)] (https://cmce.szu.edu.cn/info/1429/3786.htm).  
+
+
+have opportunities to collaborate with I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
