@@ -6,8 +6,6 @@ excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming
 date: 2023-10-01
 venue: 'ICCV (CCF-A, Full paper)'
 paperurl: '[Code](https://github.com/tuyunbin/SCORER)'
+citation: '[Code](https://github.com/tuyunbin/SCORER)'
 ---
 
-[Code](https://github.com/tuyunbin/SCORER)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
