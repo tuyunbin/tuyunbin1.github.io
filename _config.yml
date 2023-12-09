@@ -86,18 +86,18 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
-  #dblp             : "https://dblp.uni-trier.de/pid/207/1931.html"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ
+  dblp             : https://dblp.uni-trier.de/pid/207/1931.html
   email            :
   researchgate     :  
-  uri              :  "https://tuyunbin.github.io"
+  uri              :  https://tuyunbin.github.io
   bitbucket        :   
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tuyunbin"
+  github           : https://github.com/tuyunbin
   google_plus      :
   keybase          :
   instagram        :
