@@ -5,7 +5,7 @@ permalink: /publication/2023-scorer
 excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang.'
 date: 2023-10-01
 venue: 'ICCV (CCF-A, Full paper)'
-Code:
+paperurl: '[Code](https://github.com/tuyunbin/SCORER)'
 ---
 
 [Code](https://github.com/tuyunbin/SCORER)
