@@ -85,27 +85,27 @@ author:
   bio              : "Ph.D. candidate, 
   
                       University of Chinese Academy of Sciences"
-  location         : # "Beijing, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  
+  uri              :  "https://tuyunbin.github.io"
   bitbucket        :   
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"tuyunbin"
+  github           : "tuyunbin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9525-9060"
   pinterest        :
   soundcloud       :
   stackoverflow    :   # http://stackoverflow.com/users/123456/username
