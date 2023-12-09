@@ -7,4 +7,6 @@ date: 2023-10-01
 venue: 'ICCV (CCF-A, Full paper)'
 Code:
 ---
+
 [Code](https://github.com/tuyunbin/SCORER)
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
