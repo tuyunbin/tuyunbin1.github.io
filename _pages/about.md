@@ -17,9 +17,9 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 Recent News
 ======
 - 2023.07: A paper is accepted by ICCV 2023.
-- 2023.03 A paper is accepted by IEEE TIP.
-- 2023.02 A paper is accepted by IEEE TMM.
-- 2023.01 A paper is accepted by IEEE TMM.
+- 2023.03: A paper is accepted by IEEE TIP.
+- 2023.02: A paper is accepted by IEEE TMM.
+- 2023.01: A paper is accepted by IEEE TMM.
 
 Education
 ======
