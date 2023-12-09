@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised Cross-view Representation Reconstruction for Change Captioning"
 Author: Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang.
-collection: publications
+collection: Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang.
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
