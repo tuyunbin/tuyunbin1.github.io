@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yunbin Tu (涂云斌)"
-  avatar           : "Rouge.png"
+  avatar           : "/images/Rouge.png"
   bio              : "Ph.D. candidate, 
   
                       University of Chinese Academy of Sciences"
