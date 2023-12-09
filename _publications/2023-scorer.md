@@ -5,7 +5,7 @@ permalink: /publication/2023-scorer
 excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang.'
 date: 2023-10-01
 venue: 'ICCV (CCF-A, Full paper)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '[Code](https://github.com/tuyunbin/SCORER)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
