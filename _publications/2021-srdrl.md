@@ -5,7 +5,11 @@ permalink: /publication/2021-srdrl
 excerpt: '**Yunbin Tu**, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan.
 
 
-[[PDF](https://aclanthology.org/2021.findings-acl.6.pdf) [Code](https://github.com/tuyunbin/SRDRL) [Poster](https://drive.google.com/file/d/1UXlVpmEsWZsB6l7ksVJFntnYqkch_Swx/view?usp=drive_link) [Video](https://aclanthology.org/2021.findings-acl.6.mp4)]'
+[[PDF](https://aclanthology.org/2021.findings-acl.6.pdf) [Code](https://github.com/tuyunbin/SRDRL) [Poster](https://drive.google.com/file/d/1UXlVpmEsWZsB6l7ksVJFntnYqkch_Swx/view?usp=drive_link) [Video](https://aclanthology.org/2021.findings-acl.6.mp4)]
+
+
+<h2>2020</h2>
+---'
 
 date: 2021-8-01
 venue: 'Findings of ACL (CCF-A, Full paper)'
