@@ -1,5 +1,3 @@
-2023
-
 ---
 title: "Self-supervised Cross-view Representation Reconstruction for Change Captioning"
 collection: publications
