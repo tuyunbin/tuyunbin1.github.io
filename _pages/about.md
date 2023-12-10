@@ -27,6 +27,14 @@ Education
 - 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
 - 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
+Honors & Awards
+======
+-  Merit Student, UCAS 2023.
+-  Excellent Master’s Graduation Thesis, KUST 2022.
+-  Yunnan Merit Student, Yunnan Province 2021, 2022.
+-  National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China, 2021.
+-  Student Travel Grant. ACM International Conference on Multimedia (ACMMM) 2017.
+
 Academic Services
 ======
 - PC Member
