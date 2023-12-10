@@ -6,7 +6,8 @@ author_profile: true
 year: "2023"
 ---
 
-2023
+<h2>2023</h2>
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
