@@ -88,7 +88,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
   email            : "tuyunbin22@mails.ucas.ac.cn"
   researchgate     :  "https://www.researchgate.net/scientific-contributions/Yunbin-Tu-2134233550"
   uri              :  #"https://tuyunbin.github.io"
