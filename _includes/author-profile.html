@@ -35,10 +35,10 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-3x"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.dblp %}
-        <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw"></i> DBLP</a></li>
+        <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-4x"></i> DBLP</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
