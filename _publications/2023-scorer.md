@@ -1,8 +1,6 @@
 ---
-title: "2023
-
-Self-supervised Cross-view Representation Reconstruction for Change Captioning"
-collection: publications
+title: "Self-supervised Cross-view Representation Reconstruction for Change Captioning"
+collection: publications 2023
 permalink: /publication/2023-scorer
 excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang.
 
