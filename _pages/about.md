@@ -30,11 +30,11 @@ Education
 
 Honors & Awards
 ======
--  Merit Student, UCAS 2023.
--  Excellent Master’s Graduation Thesis, KUST 2022.
+-  Merit Student, UCAS, 2023.
+-  Excellent Master’s Graduation Thesis, KUST, 2022.
 -  Yunnan Merit Student, Yunnan Province 2021, 2022.
 -  National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China, 2021.
--  Student Travel Grant, ACM International Conference on Multimedia (ACM MM) 2017.
+-  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
 
 Academic Services
 ======
@@ -44,7 +44,7 @@ Academic Services
   - EMNLP 2023
   - ACM MM 2023
 - Reviewer
-  - IEEE TCSVT
-  - IEEE TETCI
-  - Artificial Intelligence Review
+  - IEEE TCSVT (Impact Factor: 8.4)
+  - IEEE TETCI (Impact Factor: 5.3)
+  - Artificial Intelligence Review (Impact Factor: 12.0)
 
