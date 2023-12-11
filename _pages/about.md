@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a second year Ph.D. student from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). My research interests include vision-and-language and multimedia content analysis.
-You can find [my CV here](https://github.com/tuyunbin/tuyunbin.github.io/blob/master/assets/tuyunbin_cv.pdf).
+You can find [my CV here](/assets/tuyunbin_cv.pdf).
 
 I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~suli) from UCAS, and [A.P. Liang Li](https://vipl.ict.ac.cn/people/lliang/) from the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my master's degree from Kunming University of Science and Technology in 2022, advised by [Prof. Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). I received my bachelor's degree from Hangzhou Dizi University in 2018, advised by [Prof. Chenggang Yan](https://auto.hdu.edu.cn/2019/0621/c3803a96028/page.htm). I was lucky to have opportunities to collaborate with [Xishan Zhang](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/202003/t20200310_5509322.html)  (A.P. at ICT, CAS) and [Xingzheng Wang](https://cmce.szu.edu.cn/info/1429/3786.htm)  (A.P. at Shenzhen University).  
 
