@@ -7,7 +7,7 @@ excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming
 
 [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.pdf) [Code](https://github.com/tuyunbin/SCORER) [Poster](https://drive.google.com/file/d/1_KLaOTl-o-fevQbT8zwAEAVlKPoufM_Z/view?usp=drive_link) [Supp.](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tu_Self-supervised_Cross-view_Representation_ICCV_2023_supplemental.pdf)]'
 
-data: 2023-10-01
+date: 2023-10-01
 venue: 'ICCV (CCF-A, Full paper)'
 ---
 
