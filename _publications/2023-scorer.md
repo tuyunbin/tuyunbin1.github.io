@@ -9,7 +9,7 @@ excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming
 
 date: 2023-10-01
 
-venue: 'IEEE/CVF International Conference on Computer Vision (**ICCV**), 2805-2815'
+venue: 'IEEE/CVF International Conference on Computer Vision (ICCV), 2805-2815'
 
 ---
 
