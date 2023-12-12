@@ -12,7 +12,7 @@ excerpt: '**Yunbin Tu**, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zh
 ---'
 
 date: 2021-8-01
-venue: 'Findings of the Association for Computational Linguistics (Findings of ACL), 63–73'
+venue: 'Findings of the Association for Computational Linguistics (Findings of ACL, Long), 63–73'
 ---
 
 Change captioning is to describe the difference in a pair of images with a natural language sentence. In this task, the distractors, such as the illumination or viewpoint change, bring the huge challenges about learning the difference representation. In this paper, we propose a semantic relation-aware difference representation learning network to explicitly learn the difference representation in the existence of distractors. Specifically, we introduce a self-semantic relation embedding block to explore the underlying changed objects and design a cross-semantic relation measuring block to localize the real change and learn the discriminative difference representation. Besides, relying on the POS of words, we devise an attention-based visual switch to dynamically use visual information for caption generation. Extensive experiments show that our method achieves the state-of-the-art performances on CLEVR-Change and Spot-the-Diff datasets.
