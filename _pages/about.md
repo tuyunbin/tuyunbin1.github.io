@@ -25,8 +25,8 @@ Recent News
 Education
 ======
 - 2022.09 - Present, Ph.D. in Computer Applied Technology, University of Chinese Academy of Sciences (UCAS), China.
-- 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
-- 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
+- 2019.09 – 2022.06, M.Eng. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
+- 2014.09 – 2018.06, B.Eng. in Automation, Hangzhou Dianzi University (HDU), China.
 
 Honors & Awards
 ======
