@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
-- 2023.01: A paper is accepted by IEEE TPAMI.
+- 2024.01: A paper is accepted by IEEE TPAMI.
 - 2023.07: A paper is accepted by ICCV 2023.
 - 2023.04: A paper is accepted by Pattern Recognition.
 - 2023.03: A paper is accepted by IEEE TIP.
