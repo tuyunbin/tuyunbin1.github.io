@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-year: "2023"
+year: "2024"
 ---
 
 <h2>2023</h2>
