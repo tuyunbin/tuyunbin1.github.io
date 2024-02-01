@@ -8,5 +8,5 @@ excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang.
 ---'
 
 date: 2024-01-27
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI, Impact Factor:23.6), Accepted.'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI, Impact Factor:23.6), Accepted'
 ---
