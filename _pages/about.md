@@ -43,6 +43,7 @@ Academic Services
   - EMNLP 2023
   - ACM MM 2023/2024
 - Reviewer
+  - IEEE TIP (Impact Factor: 10.6)
   - IEEE TCSVT (Impact Factor: 8.4)
   - IEEE TETCI (Impact Factor: 5.3)
   - Artificial Intelligence Review (Impact Factor: 12.0)
