@@ -31,7 +31,7 @@ Education
 Honors & Awards
 ======
 -  Merit Student, UCAS, 2023/2024.
--  Yunnan Merit Student, Yunnan Province 2021/2022.
+-  Yunnan Merit Student, Yunnan Province, 2021/2022.
 -  National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China, 2021.
 -  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
 
