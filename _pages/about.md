@@ -16,11 +16,11 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
+- 2024.05：A paper is accepted by ACL 2024 main conference (long paper).
+- 2024.04：A paper is accepted by ACM TOMM.
 - 2024.01: A paper is accepted by IEEE TPAMI.
 - 2023.07: A paper is accepted by ICCV 2023.
 - 2023.04: A paper is accepted by Pattern Recognition.
-- 2023.03: A paper is accepted by IEEE TIP.
-- 2023.02: A paper is accepted by IEEE TMM.
 
 Education
 ======
@@ -30,7 +30,7 @@ Education
 
 Honors & Awards
 ======
--  Merit Student, UCAS, 2023.
+-  Merit Student, UCAS, 2023, 2024.
 -  Yunnan Merit Student, Yunnan Province 2021, 2022.
 -  National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China, 2021.
 -  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
@@ -47,4 +47,5 @@ Academic Services
   - IEEE TCSVT (Impact Factor: 8.4)
   - IEEE TETCI (Impact Factor: 5.3)
   - Artificial Intelligence Review (Impact Factor: 12.0)
+  - Neurocomputing (Impact Factor: 6.0)
 
