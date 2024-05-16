@@ -16,8 +16,8 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
-- 2024.05：A paper is accepted by ACL 2024 main conference (long paper).
-- 2024.04：A paper is accepted by ACM TOMM.
+- 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
+- 2024.04: A paper is accepted by ACM TOMM.
 - 2024.01: A paper is accepted by IEEE TPAMI.
 - 2023.07: A paper is accepted by ICCV 2023.
 - 2023.04: A paper is accepted by Pattern Recognition.
