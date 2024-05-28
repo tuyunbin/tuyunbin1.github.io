@@ -40,7 +40,7 @@ Academic Services
 - PC Member
   - AAAI 2023/2024
   - ACL 2023/2024
-  - EMNLP 2023
+  - EMNLP 2023/2024
   - ACM MM 2023/2024
 - Reviewer
   - IEEE TIP (Impact Factor: 10.6)
