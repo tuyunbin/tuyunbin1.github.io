@@ -16,17 +16,18 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
+- 2024.07: A paper is accepted by ECCV 2024.
 - 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
 - 2024.04: A paper is accepted by ACM TOMM.
 - 2024.01: A paper is accepted by IEEE TPAMI.
 - 2023.07: A paper is accepted by ICCV 2023.
-- 2023.04: A paper is accepted by Pattern Recognition.
+
 
 Education
 ======
 - 2022.09 - Present, Ph.D. in Computer Applied Technology, University of Chinese Academy of Sciences (UCAS), China.
-- 2019.09 – 2022.06, M.Eng. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
-- 2014.09 – 2018.06, B.Eng. in Automation, Hangzhou Dianzi University (HDU), China.
+- 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
+- 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 Honors & Awards
 ======
@@ -38,7 +39,7 @@ Honors & Awards
 Academic Services
 ======
 - PC Member
-  - AAAI 2023/2024
+  - AAAI 2023/2024/2025
   - ACL 2023/2024
   - EMNLP 2023/2024
   - ACM MM 2023/2024
