@@ -21,7 +21,6 @@ Recent News
 - 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
 - 2024.04: A paper is accepted by ACM TOMM.
 - 2024.01: A paper is accepted by IEEE TPAMI.
-- 2023.07: A paper is accepted by ICCV 2023.
 
 
 Education
