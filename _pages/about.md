@@ -50,4 +50,5 @@ Academic Services
   - IEEE TETCI (Impact Factor: 5.3)
   - Artificial Intelligence Review (Impact Factor: 10.7)
   - Neurocomputing (Impact Factor: 5.5)
+  - Multimedia Systems (Impact Factor: 3.5)
 
