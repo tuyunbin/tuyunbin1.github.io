@@ -32,6 +32,7 @@ Education
 
 Honors & Awards
 ======
+-  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 -  Merit Student, UCAS, 2023/2024.
 -  Yunnan Merit Student, Yunnan Province, 2021/2022.
 -  National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China, 2021.
