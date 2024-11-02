@@ -11,7 +11,7 @@ redirect_from:
 I am a third year Ph.D. student from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). My research interests include vision-and-language and multimedia content analysis. You can find my [CV (English)](/assets/yunbin_cv.pdf) / [CV (Chinese)](/assets/涂云斌简历.pdf) here.
 
 
-I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~suli) and [A.P. Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). I received my master's degree from Kunming University of Science and Technology in 2022, advised by [Prof. Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). I received my bachelor's degree from Hangzhou Dianzi University in 2018, advised by [Prof. Chenggang Yan](https://auto.hdu.edu.cn/2019/0621/c3803a96028/page.htm). I was lucky to have opportunities to collaborate with [Xishan Zhang](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/202003/t20200310_5509322.html)  (A.P. at ICT, CAS) and [Xingzheng Wang](https://cmce.szu.edu.cn/info/1429/3786.htm)  (A.P. at Shenzhen University).  
+I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~suli) and [Prof. Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). I received my master's degree from Kunming University of Science and Technology in 2022, advised by [Prof. Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). I received my bachelor's degree from Hangzhou Dianzi University in 2018, advised by [Prof. Chenggang Yan](https://auto.hdu.edu.cn/2019/0621/c3803a96028/page.htm). I was lucky to have opportunities to collaborate with [Xishan Zhang](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/202003/t20200310_5509322.html)  (A.P. at ICT, CAS) and [Xingzheng Wang](https://cmce.szu.edu.cn/info/1429/3786.htm)  (A.P. at Shenzhen University).  
 
 
 Recent News
@@ -46,6 +46,7 @@ Academic Services
   - ACL 2023/2024
   - EMNLP 2023/2024
   - ACM MM 2023/2024
+  - NAACL 2025
 - Reviewer
   - IEEE TIP (Impact Factor: 10.8)
   - IEEE TCSVT (Impact Factor: 8.3)
@@ -53,4 +54,5 @@ Academic Services
   - Artificial Intelligence Review (Impact Factor: 10.7)
   - Neurocomputing (Impact Factor: 5.5)
   - Multimedia Systems (Impact Factor: 3.5)
+  - International Journal of Multimedia Information Retrieval (Impact Factor: 3.6)
 
