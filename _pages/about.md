@@ -46,6 +46,7 @@ Academic Services
   - ACL 2023/2024
   - EMNLP 2023/2024
   - ACM MM 2023/2024
+  - CVPR 2025
   - NAACL 2025
 - Reviewer
   - IEEE TIP (Impact Factor: 10.8)
