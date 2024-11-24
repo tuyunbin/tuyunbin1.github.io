@@ -52,6 +52,7 @@ Academic Services
   - IEEE TIP (Impact Factor: 10.8)
   - IEEE TCSVT (Impact Factor: 8.3)
   - IEEE TETCI (Impact Factor: 5.3)
+  - Computer Vision and Image Understanding (Impact Factor: 4.3)
   - Artificial Intelligence Review (Impact Factor: 10.7)
   - Neurocomputing (Impact Factor: 5.5)
   - Multimedia Systems (Impact Factor: 3.5)
