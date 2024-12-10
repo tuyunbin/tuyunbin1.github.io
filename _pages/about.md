@@ -16,6 +16,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
+- 2024.12: Two papers are accepted by AAAI 2025.
 - 2024.07: A paper is accepted by ECCV 2024.
 - 2024.07: A paper is accepted by ACM MM 2024.
 - 2024.07: A paper is accepted by IEEE TMM.
