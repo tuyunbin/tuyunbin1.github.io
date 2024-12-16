@@ -3,7 +3,7 @@ title: "SMART: Syntax-calibrated Multi-Aspect Relation Transformer for Change Ca
 collection: publications
 permalink: /publication/2024-smart
 excerpt: '**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang.
-[[PDF](https://ieeexplore.ieee.org/abstract/document/10433795) [Code](https://github.com/tuyunbin/SMART)]'
+[[PDF](https://ieeexplore.ieee.org/abstract/document/10433795) [Code](https://github.com/tuyunbin/SMART)]
 
 <h2>2023</h2>
 ---'
