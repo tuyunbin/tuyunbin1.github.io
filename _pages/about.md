@@ -34,6 +34,7 @@ Education
 
 Honors & Awards
 ======
+-  AAAI Student Scholarship, 2025.
 -  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
 -  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
 -  Merit Student, UCAS, 2023/2024.
