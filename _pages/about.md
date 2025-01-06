@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
-- 2025.01：Selected for the inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program of the China Association for Science and Technology. （入选首届中国科协青年人才托举工程博士生专项计划）
+- 2025.01：Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program of China Association for Science and Technology. （入选首届中国科协青年人才托举工程博士生专项计划）
 - 2024.12: Two papers are accepted by AAAI 2025.
 - 2024.07: A paper is accepted by ECCV 2024.
 - 2024.07: A paper is accepted by ACM MM 2024.
@@ -35,7 +35,7 @@ Education
 
 Honors & Awards
 ======
--  The inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program of the China Association for Science and Technology. （首届中国科协青年人才托举工程博士生专项计划）
+-  The Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program, China Association for Science and Technology, 2025. （首届中国科协青年人才托举工程博士生专项计划）
 -  AAAI Student Scholarship, 2025.
 -  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
 -  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
