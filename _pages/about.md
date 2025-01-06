@@ -35,6 +35,7 @@ Education
 
 Honors & Awards
 ======
+-  The inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program of the China Association for Science and Technology. （首届中国科协青年人才托举工程博士生专项计划）
 -  AAAI Student Scholarship, 2025.
 -  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
 -  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
