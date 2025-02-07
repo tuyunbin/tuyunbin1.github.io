@@ -49,7 +49,7 @@ Academic Services
 ======
 - PC Member
   - AAAI 2023/2024/2025
-  - ACL 2023/2024
+  - ACL 2023/2024/2025
   - EMNLP 2023/2024
   - ACM MM 2023/2024
   - CVPR 2025
