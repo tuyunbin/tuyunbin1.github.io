@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
-- 2025.02: I am serving as an Area Chair for ACL 2025.
+- 2025.02: I will be serving as an Area Chair for ACL 2025.
 - 2025.01：Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program of China Association for Science and Technology. （入选首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
 - 2024.12: Two papers are accepted by AAAI 2025.
 - 2024.07: A paper is accepted by ECCV 2024.
@@ -47,22 +47,23 @@ Honors & Awards
 
 Academic Services
 ======
-- PC Member
-  - AAAI 2023/2024/2025
-  - ACL 2023/2024/2025
-  - EMNLP 2023/2024
-  - ACM MM 2023/2024
-  - CVPR 2025
-  - IJCAI 2025
-  - NAACL 2025
-- Reviewer
-  - IEEE TIP (Impact Factor: 10.8)
-  - IEEE TCSVT (Impact Factor: 8.3)
-  - IEEE TETCI (Impact Factor: 5.3)
-  - Neural Networks (Impact Factor: 6.0)
-  - Computer Vision and Image Understanding (Impact Factor: 4.3)
-  - Artificial Intelligence Review (Impact Factor: 10.7)
-  - Neurocomputing (Impact Factor: 5.5)
-  - Multimedia Systems (Impact Factor: 3.5)
-  - International Journal of Multimedia Information Retrieval (Impact Factor: 3.6)
+- Conference
+  - ACL: Area Chair (2025)
+  - AAAI: PC Member (2023, 2024, 2025)
+  - ACL: PC Member (2023, 2024, 2025)
+  - EMNLP: PC Member (2023, 2024)
+  - ACM MM: PC Member (2023, 2024)
+  - CVPR: PC Member (2025)
+  - IJCAI: PC Member (2025)
+  - NAACL: PC Member (2025)
+- Journal
+  - IEEE TIP (Impact Factor: 10.8): Reviewer
+  - IEEE TCSVT (Impact Factor: 8.3): Reviewer
+  - IEEE TETCI (Impact Factor: 5.3): Reviewer
+  - Neural Networks (Impact Factor: 6.0): Reviewer
+  - Computer Vision and Image Understanding (Impact Factor: 4.3): Reviewer
+  - Artificial Intelligence Review (Impact Factor: 10.7): Reviewer
+  - Neurocomputing (Impact Factor: 5.5): Reviewer
+  - Multimedia Systems (Impact Factor: 3.5): Reviewer
+  - International Journal of Multimedia Information Retrieval (Impact Factor: 3.6): Reviewer
 
