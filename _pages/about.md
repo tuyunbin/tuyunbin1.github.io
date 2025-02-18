@@ -55,6 +55,7 @@ Academic Services
   - ACM MM: PC Member (2023, 2024)
   - CVPR: PC Member (2025)
   - ICCV: PC Member (2025)
+  - SIGIR: PC Member (2025)
   - IJCAI: PC Member (2025)
   - NAACL: PC Member (2025)
 - Journal
