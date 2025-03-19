@@ -53,6 +53,7 @@ Academic Services
   - ACL: PC Member (2023, 2024, 2025)
   - EMNLP: PC Member (2023, 2024)
   - ACM MM: PC Member (2023, 2024)
+  - ECCV: PC Member (2024)
   - CVPR: PC Member (2025)
   - ICCV: PC Member (2025)
   - SIGIR: PC Member (2025)
