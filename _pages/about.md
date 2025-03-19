@@ -52,7 +52,7 @@ Academic Services
   - AAAI: PC Member (2023, 2024, 2025)
   - ACL: PC Member (2023, 2024, 2025)
   - EMNLP: PC Member (2023, 2024)
-  - ACM MM: PC Member (2023, 2024)
+  - ACM MM: PC Member (2023, 2024, 2025)
   - ECCV: PC Member (2024)
   - CVPR: PC Member (2025)
   - ICCV: PC Member (2025)
