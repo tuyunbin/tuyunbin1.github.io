@@ -20,9 +20,9 @@ Recent News
 - 2025.01：Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program by CAST. （入选首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
 - 2024.12: Two papers are accepted by AAAI 2025. Congrats to Shijie Li!.
 - 2024.07: A paper is accepted by ECCV 2024.
-- 2024.07: A paper is accepted by ACM MM 2024. Congrats to Shijie Li!.
-- 2024.07: A paper is accepted by IEEE TMM. Congrats to Yiting Liu!.
-- 2024.07: A paper is accepted by ECAI 2024. Congrats to Shijie Li.
+- 2024.07: A paper is accepted by ACM MM 2024. Congrats to Shijie Li!
+- 2024.07: A paper is accepted by IEEE TMM. Congrats to Yiting Liu!
+- 2024.07: A paper is accepted by ECAI 2024. Congrats to Shijie Li!
 - 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
 - 2024.04: A paper is accepted by ACM TOMM. Congrats to [Shengbin Yue](https://yueshengbin.github.io/)!
 - 2024.01: A paper is accepted by IEEE TPAMI.
