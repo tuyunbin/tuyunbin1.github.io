@@ -62,6 +62,7 @@ Academic Services
   - IJCAI: PC Member (2025)
   - NAACL: PC Member (2025)
 - Journal
+  - IEEE TPAMI (Impact Factor: 20.8): Reviewer
   - IEEE TIP (Impact Factor: 10.8): Reviewer
   - IEEE TCSVT (Impact Factor: 8.3): Reviewer
   - IEEE TETCI (Impact Factor: 5.3): Reviewer
