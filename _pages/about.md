@@ -58,6 +58,7 @@ Academic Services
   - ECCV: PC Member (2024)
   - CVPR: PC Member (2025)
   - ICCV: PC Member (2025)
+  - NeurIPS: PC Member (2025)
   - SIGIR: PC Member (2025)
   - IJCAI: PC Member (2025)
   - NAACL: PC Member (2025)
@@ -68,6 +69,7 @@ Academic Services
   - International Journal of Applied Earth Observation and Geoinformation (Impact Factor: 7.6): Reviewer
   - Neural Networks (Impact Factor: 6.0): Reviewer
   - Computer Vision and Image Understanding (Impact Factor: 4.3): Reviewer
+  - Machine Learning (Impact Factor: 4.3): Reviewer
   - Artificial Intelligence Review (Impact Factor: 10.7): Reviewer
   - Neurocomputing (Impact Factor: 5.5): Reviewer
   - Multimedia Systems (Impact Factor: 3.5): Reviewer
