@@ -66,6 +66,7 @@ Academic Services
   - IEEE TIP (Impact Factor: 10.8): Reviewer
   - IEEE TCSVT (Impact Factor: 8.3): Reviewer
   - IEEE TETCI (Impact Factor: 5.3): Reviewer
+  - Pattern Recognition (Impact Factor: 7.5): Reviewer
   - International Journal of Applied Earth Observation and Geoinformation (Impact Factor: 7.6): Reviewer
   - Neural Networks (Impact Factor: 6.0): Reviewer
   - Computer Vision and Image Understanding (Impact Factor: 4.3): Reviewer
