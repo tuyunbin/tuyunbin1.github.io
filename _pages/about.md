@@ -62,6 +62,7 @@ Academic Services
   - SIGIR: PC Member (2025)
   - IJCAI: PC Member (2025)
   - NAACL: PC Member (2025)
+  - ECAI: PC Member (2025)
 - Journal
   - IEEE TIP (Impact Factor: 10.8): Reviewer
   - IEEE TCSVT (Impact Factor: 8.3): Reviewer
