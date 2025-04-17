@@ -41,39 +41,12 @@ Honors & Awards
 -  AAAI Student Scholarship, 2025.
 -  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
 -  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
--  Merit Student, UCAS, 2023/2024.
--  Yunnan Merit Student, Yunnan Province, 2021/2022.
 -  National Scholarship for Master's Students, Ministry of Education of the People’s Republic of China, 2021.
 -  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
 
 Academic Services
 ======
-- Conference
-  - ACL: Area Chair (2025)
-  - EMNLP: Area Chair (2025)
-  - AAAI: PC Member (2023, 2024, 2025)
-  - ACL: PC Member (2023, 2024)
-  - EMNLP: PC Member (2023, 2024)
-  - ACM MM: PC Member (2023, 2024, 2025)
-  - ECCV: PC Member (2024)
-  - CVPR: PC Member (2025)
-  - ICCV: PC Member (2025)
-  - NeurIPS: PC Member (2025)
-  - SIGIR: PC Member (2025)
-  - IJCAI: PC Member (2025)
-  - NAACL: PC Member (2025)
-  - ECAI: PC Member (2025)
-- Journal
-  - IEEE TIP (Impact Factor: 10.8): Reviewer
-  - IEEE TCSVT (Impact Factor: 8.3): Reviewer
-  - IEEE TETCI (Impact Factor: 5.3): Reviewer
-  - Pattern Recognition (Impact Factor: 7.5): Reviewer
-  - International Journal of Applied Earth Observation and Geoinformation (Impact Factor: 7.6): Reviewer
-  - Neural Networks (Impact Factor: 6.0): Reviewer
-  - Computer Vision and Image Understanding (Impact Factor: 4.3): Reviewer
-  - Machine Learning (Impact Factor: 4.3): Reviewer
-  - Artificial Intelligence Review (Impact Factor: 10.7): Reviewer
-  - Neurocomputing (Impact Factor: 5.5): Reviewer
-  - Multimedia Systems (Impact Factor: 3.5): Reviewer
-  - International Journal of Multimedia Information Retrieval (Impact Factor: 3.6): Reviewer
+- Area Chair for ACL 2025 / EMNLP 2025
+- Journal Reviewer for  IEEE TIP / IEEE TCSVT / PR / CVIU / Neural Networks / Machine Learning / Neurocomputing / Machine Vision and Applications ...
+- Conference Reviewer for ACL / EMNLP / ICCV / CVPR / NeurIPS / AAAI / IJCAI / ACM MM ...
 
