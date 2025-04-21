@@ -46,7 +46,7 @@ Honors & Awards
 
 Academic Services
 ======
-- Area Chair for ACL 2025 / EMNLP 2025
+- Area Chair for ACL 2025 / EMNLP 2025 / ACM MM 2025
 - Journal Reviewer for  IEEE TIP / IEEE TCSVT / PR / CVIU / Machine Learning ...
 - Conference Reviewer for ICCV / CVPR / NeurIPS / AAAI / IJCAI ...
 
