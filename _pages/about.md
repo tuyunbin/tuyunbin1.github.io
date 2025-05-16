@@ -16,6 +16,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 Recent News
 ======
+- 2025.05: A paper is accepted by ACL 2025 Findings (long paper). Congrats to Yi Li!
 - 2025.04: I will be serving as an Area Chair for ACM MM 2025.
 - 2025.04: I will be serving as an Area Chair for EMNLP 2025.
 - 2025.02: I will be serving as an Area Chair for ACL 2025.
