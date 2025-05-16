@@ -27,8 +27,8 @@ Recent News
 - 2024.07: A paper is accepted by IEEE TMM. Congrats to Yiting Liu!
 - 2024.07: A paper is accepted by ECAI 2024. Congrats to Shijie Li!
 - 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
-- 2024.04: A paper is accepted by ACM TOMM. Congrats to [Shengbin Yue](https://yueshengbin.github.io/)!
-- 2024.01: A paper is accepted by IEEE TPAMI.
+<!-- 2024.04: A paper is accepted by ACM TOMM. Congrats to [Shengbin Yue](https://yueshengbin.github.io/)! -->
+<!-- 2024.01: A paper is accepted by IEEE TPAMI. -->
 
 
 Education
