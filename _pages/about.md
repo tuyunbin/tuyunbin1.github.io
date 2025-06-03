@@ -39,6 +39,7 @@ Education
 
 Honors & Awards
 ======
+-  CAS President Scholarship (Excellent Prize), 2025. (中国科学院院长优秀奖)
 -  The Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program, China Association for Science and Technology, 2025. （首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
 -  AAAI Student Scholarship, 2025.
 -  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
